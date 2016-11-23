@@ -196,7 +196,7 @@
         android:layout_below="@+id/textView48"
         android:layout_marginTop="76dp"
         android:ems="10"
-        android:hint="*Catatan Khusus Orang Tua"
+        android:hint="Catatan Khusus Orang Tua"
         android:inputType="text" />
 
     <Button
