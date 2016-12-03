@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872577579236",
+    "firebase_url": "https://raport-online.firebaseio.com",
+    "project_id": "raport-online",
+    "storage_bucket": "raport-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872577579236:android:db2d16733aa1168d",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project.xiirpl501112131.raportbukupenghubung_kelompok1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872577579236-pj5c7t37d7mh7j4hhtmq8ifp1uemnfml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeU7USoCguv7mGcwx-f5XpT7klh75mN-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
