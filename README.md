@@ -15,7 +15,7 @@ Aplikasi ini ditujukan untuk  para orangtua murid / wali murid yang ingin menget
 ![screenshot_2016-12-07-23-49-43](https://cloud.githubusercontent.com/assets/22438078/20978255/c7912232-bcda-11e6-8e42-6de2692b32bb.jpg)
 ### 5. Tampilan Nilai Sikap & Catatan Khusus Orangtua
 ![screenshot_2016-12-07-23-49-47](https://cloud.githubusercontent.com/assets/22438078/20977694/eb3da824-bcd8-11e6-9973-6233e891eff9.jpg)
-### 6. Menu Drawable(Menu Samping)
+### 6. Menu Drawable (Menu Samping)
 ![screenshot_2016-12-07-23-50-55](https://cloud.githubusercontent.com/assets/22438078/20977693/ea6ab0fe-bcd8-11e6-810c-c4dbc2581a76.jpg)
 ### 7. Halaman About
 ![screenshot_2016-12-07-23-49-54](https://cloud.githubusercontent.com/assets/22438078/20977692/ea60c378-bcd8-11e6-820b-7570756684ff.jpg)
