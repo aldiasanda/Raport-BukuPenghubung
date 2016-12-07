@@ -10,9 +10,9 @@ Aplikasi ini ditujukan untuk  para orangtua murid / wali murid yang ingin menget
 ### 2. Splash Screen
 ![screenshot_2016-12-07-22-48-37](https://cloud.githubusercontent.com/assets/22438078/20976161/3b5f9c68-bcd4-11e6-939a-2b974b019f95.jpg)
 ### 3. Halaman Login
-![screenshot_2016-12-07-23-49-43](https://cloud.githubusercontent.com/assets/22438078/20978255/c7912232-bcda-11e6-8e42-6de2692b32bb.jpg)
-### 4. Tampilan Nilai Akademik
 ![screenshot_2016-12-07-23-13-43](https://cloud.githubusercontent.com/assets/22438078/20978254/c78ec032-bcda-11e6-92ba-0906e17f15b9.jpg)
+### 4. Tampilan Nilai Akademik
+![screenshot_2016-12-07-23-49-43](https://cloud.githubusercontent.com/assets/22438078/20978255/c7912232-bcda-11e6-8e42-6de2692b32bb.jpg)
 ### 5. Tampilan Nilai Sikap & Catatan Khusus Orangtua
 ![screenshot_2016-12-07-23-49-47](https://cloud.githubusercontent.com/assets/22438078/20977694/eb3da824-bcd8-11e6-9973-6233e891eff9.jpg)
 ### 6. Menu Drawable(Menu Samping)
